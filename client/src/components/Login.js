@@ -26,6 +26,7 @@ const Login = (props) => {
 
         <label>
           Password:
+         
           <input type="password" name="password" ref={register} />
         </label>
         <br />
